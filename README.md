@@ -18,7 +18,13 @@ Muscat, Oman
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-MetaTrader%205-0F3D6E?style=flat&logo=metatrader5&logoColor=white)
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=empire1989&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empire1989&layout=compact&theme=dark&hide_border=true)
+
+### 📈 MQL5 / MetaTrader 5 projects
+- [MMGT Trade Manager EA](https://github.com/empire1989/mmgt-trade-manager): on-chart trading panel with position sizing, risk control and trade management
+- [Order Point P/L](https://github.com/empire1989/order-point-pl): chart indicator that shows live profit or loss of each open position
+- [MQL5 Market listing](https://github.com/empire1989/mmgt-mql5-listing): link to the MQL5 Market product page
