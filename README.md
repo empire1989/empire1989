@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hadi Saleh
 
-**IT Infrastructure & Network Engineer** with over 10 years of experience in network and hardware support, server operating systems, and technical project management. I'm currently learning and building automation tools for infrastructure management.
+**IT Infrastructure & Network Engineer** with over 10 years of experience in network and hardware support, server operating systems, and technical project management. I'm currently learning and building automation tools for infrastructure management, and developing MQL5 trading tools for MetaTrader 5.
 
 ### 📍 Location
 Muscat, Oman
