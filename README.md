@@ -9,7 +9,7 @@ Muscat, Oman
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![MTCNA](https://img.shields.io/badge/MTCNA-0F5FA6?style=flat&logo=mikrotik&logoColor=white)
 ![LPIC-1](https://img.shields.io/badge/LPIC--1-FCC624?style=flat&logo=linux&logoColor=black)
-![MCSE 2020](https://img.shields.io/badge/MCSE_2020-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft MCSE 2020](https://img.shields.io/badge/Microsoft_MCSE_2020-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 ### 🛠️ Technologies & Tools
